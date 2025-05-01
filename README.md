@@ -18,7 +18,7 @@ A high-performance, concurrent tool for downloading and parsing works from any w
 
 ```bash
 # Clone the repository
-git clone https://codeberg.org/nyuuzyou/otwarchive-downloader.git
+git clone https://github.com/nyuuzyou/otwarchive-downloader.git
 cd otwarchive-downloader
 
 # Build the executable
